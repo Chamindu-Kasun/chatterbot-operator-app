@@ -1,0 +1,23 @@
+.chatBox{
+    /* width: 100%; */
+    overflow-y: scroll;
+}
+
+.top-cross{
+    margin-top: 10px;
+    background-color:    #41426f;
+    padding: 20px;
+}
+
+.cross-icon{
+    color: #ffff;
+}
+
+.chat-header{
+    color: #ffff;
+    margin-right: 100px;
+}
+
+.converastion-text{
+    font-size: small;
+}
